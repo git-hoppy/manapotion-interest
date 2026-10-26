@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "api/interest.js": { "maxDuration": 10 },
+    "api/interest-report.js": { "maxDuration": 30 }
+  }
+}

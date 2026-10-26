@@ -1,0 +1,10 @@
+{
+  "name": "manapotion-interest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Counts 'I'm interested' clicks for the release calendar on manapotion.io (Vercel serverless functions + Vercel Blob)",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "@vercel/blob": "^1.0.0"
+  }
+}
